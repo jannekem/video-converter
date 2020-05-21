@@ -8,6 +8,8 @@ To make the application work first you'll need to have ffmpeg installed and avai
 
 This project uses [Gooey](https://github.com/chriskiehl/Gooey) for the GUI and [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) for interfacing with ffmpeg.
 
+![converter UI](img/converter-batch.png)
+
 ## About
 
 This is also an example project for my blog post [Creating simple Python applications with Gooey](https://pakstech.com/blog/python-gooey/).
